@@ -24,9 +24,7 @@
 </head>
 
 <body class="index-page sidebar-collapse">
-  <!-- loader  -->
-   <x-load/>
-   <!-- end loader -->
+  
   <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="400" style="background-color: #040445;">
 
     <div class="container">

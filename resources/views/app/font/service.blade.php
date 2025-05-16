@@ -175,10 +175,6 @@
 
 @endpush
 
- <!-- loader  -->
- <x-load/>
-   <!-- end loader -->
-
 <!-- service section -->
 
 <section class="service_section layout_padding " style="padding-top: 90px;">

@@ -25,9 +25,7 @@
 
 @endpush
 
- <!-- loader  -->
- <x-load/>
-   <!-- end loader -->
+
 
 <!-- about section -->
 <section class="about_section layout_padding" style="padding-top: 160px;">

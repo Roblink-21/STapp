@@ -40,7 +40,7 @@
 @endpush
 
  <!-- loader  -->
- <x-load/>
+ <!-- <x-load/> -->
    <!-- end loader -->
 
 
