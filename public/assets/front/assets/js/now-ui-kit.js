@@ -220,31 +220,6 @@ nowuiKit = {
       }
     }
   },
-
-  initSliders: function() {
-    // Sliders for demo purpose in refine cards section
-    var slider = document.getElementById('sliderRegular');
-
-    noUiSlider.create(slider, {
-      start: 40,
-      connect: [true, false],
-      range: {
-        min: 0,
-        max: 100
-      }
-    });
-
-    var slider2 = document.getElementById('sliderDouble');
-
-    noUiSlider.create(slider2, {
-      start: [20, 60],
-      connect: true,
-      range: {
-        min: 0,
-        max: 100
-      }
-    });
-  }
 }
 
 // Javascript just for Demo purpose, remove it from your project
