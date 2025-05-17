@@ -40,7 +40,7 @@
 @endpush
     <!-- About Start -->
     <div class="container-fluid py-5">
-        <div class="container">
+        <div class="container pt-5">
             
             <div class="row">
                 <div class="col-lg-4 py-0 py-lg-5">
